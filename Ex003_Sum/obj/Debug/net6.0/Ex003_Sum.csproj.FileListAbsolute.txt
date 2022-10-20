@@ -1,0 +1,15 @@
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex003_Sum\bin\Debug\net6.0\Ex003_Sum.exe
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex003_Sum\bin\Debug\net6.0\Ex003_Sum.deps.json
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex003_Sum\bin\Debug\net6.0\Ex003_Sum.runtimeconfig.json
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex003_Sum\bin\Debug\net6.0\Ex003_Sum.dll
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex003_Sum\bin\Debug\net6.0\Ex003_Sum.pdb
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex003_Sum\obj\Debug\net6.0\Ex003_Sum.csproj.AssemblyReference.cache
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex003_Sum\obj\Debug\net6.0\Ex003_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex003_Sum\obj\Debug\net6.0\Ex003_Sum.AssemblyInfoInputs.cache
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex003_Sum\obj\Debug\net6.0\Ex003_Sum.AssemblyInfo.cs
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex003_Sum\obj\Debug\net6.0\Ex003_Sum.csproj.CoreCompileInputs.cache
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex003_Sum\obj\Debug\net6.0\Ex003_Sum.dll
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex003_Sum\obj\Debug\net6.0\refint\Ex003_Sum.dll
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex003_Sum\obj\Debug\net6.0\Ex003_Sum.pdb
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex003_Sum\obj\Debug\net6.0\Ex003_Sum.genruntimeconfig.cache
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex003_Sum\obj\Debug\net6.0\ref\Ex003_Sum.dll
