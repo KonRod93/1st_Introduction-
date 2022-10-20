@@ -1,0 +1,15 @@
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex005_Condition_If_Else\bin\Debug\net6.0\Ex005_Condition_If_Else.exe
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex005_Condition_If_Else\bin\Debug\net6.0\Ex005_Condition_If_Else.deps.json
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex005_Condition_If_Else\bin\Debug\net6.0\Ex005_Condition_If_Else.runtimeconfig.json
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex005_Condition_If_Else\bin\Debug\net6.0\Ex005_Condition_If_Else.dll
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex005_Condition_If_Else\bin\Debug\net6.0\Ex005_Condition_If_Else.pdb
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex005_Condition_If_Else\obj\Debug\net6.0\Ex005_Condition_If_Else.csproj.AssemblyReference.cache
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex005_Condition_If_Else\obj\Debug\net6.0\Ex005_Condition_If_Else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex005_Condition_If_Else\obj\Debug\net6.0\Ex005_Condition_If_Else.AssemblyInfoInputs.cache
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex005_Condition_If_Else\obj\Debug\net6.0\Ex005_Condition_If_Else.AssemblyInfo.cs
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex005_Condition_If_Else\obj\Debug\net6.0\Ex005_Condition_If_Else.csproj.CoreCompileInputs.cache
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex005_Condition_If_Else\obj\Debug\net6.0\Ex005_Condition_If_Else.dll
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex005_Condition_If_Else\obj\Debug\net6.0\refint\Ex005_Condition_If_Else.dll
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex005_Condition_If_Else\obj\Debug\net6.0\Ex005_Condition_If_Else.pdb
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex005_Condition_If_Else\obj\Debug\net6.0\Ex005_Condition_If_Else.genruntimeconfig.cache
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex005_Condition_If_Else\obj\Debug\net6.0\ref\Ex005_Condition_If_Else.dll
