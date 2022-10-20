@@ -1,0 +1,15 @@
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex001_HelloConsole\bin\Debug\net6.0\Ex001_HelloConsole.exe
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex001_HelloConsole\bin\Debug\net6.0\Ex001_HelloConsole.deps.json
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex001_HelloConsole\bin\Debug\net6.0\Ex001_HelloConsole.runtimeconfig.json
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex001_HelloConsole\bin\Debug\net6.0\Ex001_HelloConsole.dll
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex001_HelloConsole\bin\Debug\net6.0\Ex001_HelloConsole.pdb
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex001_HelloConsole\obj\Debug\net6.0\Ex001_HelloConsole.csproj.AssemblyReference.cache
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex001_HelloConsole\obj\Debug\net6.0\Ex001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex001_HelloConsole\obj\Debug\net6.0\Ex001_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex001_HelloConsole\obj\Debug\net6.0\Ex001_HelloConsole.AssemblyInfo.cs
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex001_HelloConsole\obj\Debug\net6.0\Ex001_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex001_HelloConsole\obj\Debug\net6.0\Ex001_HelloConsole.dll
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex001_HelloConsole\obj\Debug\net6.0\refint\Ex001_HelloConsole.dll
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex001_HelloConsole\obj\Debug\net6.0\Ex001_HelloConsole.pdb
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex001_HelloConsole\obj\Debug\net6.0\Ex001_HelloConsole.genruntimeconfig.cache
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex001_HelloConsole\obj\Debug\net6.0\ref\Ex001_HelloConsole.dll
