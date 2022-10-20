@@ -1,0 +1,15 @@
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex007_Magic\bin\Debug\net6.0\Ex007_Magic.exe
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex007_Magic\bin\Debug\net6.0\Ex007_Magic.deps.json
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex007_Magic\bin\Debug\net6.0\Ex007_Magic.runtimeconfig.json
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex007_Magic\bin\Debug\net6.0\Ex007_Magic.dll
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex007_Magic\bin\Debug\net6.0\Ex007_Magic.pdb
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex007_Magic\obj\Debug\net6.0\Ex007_Magic.csproj.AssemblyReference.cache
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex007_Magic\obj\Debug\net6.0\Ex007_Magic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex007_Magic\obj\Debug\net6.0\Ex007_Magic.AssemblyInfoInputs.cache
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex007_Magic\obj\Debug\net6.0\Ex007_Magic.AssemblyInfo.cs
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex007_Magic\obj\Debug\net6.0\Ex007_Magic.csproj.CoreCompileInputs.cache
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex007_Magic\obj\Debug\net6.0\Ex007_Magic.dll
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex007_Magic\obj\Debug\net6.0\refint\Ex007_Magic.dll
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex007_Magic\obj\Debug\net6.0\Ex007_Magic.pdb
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex007_Magic\obj\Debug\net6.0\Ex007_Magic.genruntimeconfig.cache
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex007_Magic\obj\Debug\net6.0\ref\Ex007_Magic.dll
