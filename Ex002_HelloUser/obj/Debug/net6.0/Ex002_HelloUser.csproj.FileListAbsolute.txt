@@ -1,0 +1,15 @@
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex002_HelloUser\bin\Debug\net6.0\Ex002_HelloUser.exe
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex002_HelloUser\bin\Debug\net6.0\Ex002_HelloUser.deps.json
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex002_HelloUser\bin\Debug\net6.0\Ex002_HelloUser.runtimeconfig.json
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex002_HelloUser\bin\Debug\net6.0\Ex002_HelloUser.dll
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex002_HelloUser\bin\Debug\net6.0\Ex002_HelloUser.pdb
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex002_HelloUser\obj\Debug\net6.0\Ex002_HelloUser.csproj.AssemblyReference.cache
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex002_HelloUser\obj\Debug\net6.0\Ex002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex002_HelloUser\obj\Debug\net6.0\Ex002_HelloUser.AssemblyInfoInputs.cache
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex002_HelloUser\obj\Debug\net6.0\Ex002_HelloUser.AssemblyInfo.cs
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex002_HelloUser\obj\Debug\net6.0\Ex002_HelloUser.csproj.CoreCompileInputs.cache
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex002_HelloUser\obj\Debug\net6.0\Ex002_HelloUser.dll
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex002_HelloUser\obj\Debug\net6.0\refint\Ex002_HelloUser.dll
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex002_HelloUser\obj\Debug\net6.0\Ex002_HelloUser.pdb
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex002_HelloUser\obj\Debug\net6.0\Ex002_HelloUser.genruntimeconfig.cache
+C:\Users\Konstantin\Desktop\Work\GeekBrains\Introduction to programming languages\1 lesson\Examples\Ex002_HelloUser\obj\Debug\net6.0\ref\Ex002_HelloUser.dll
